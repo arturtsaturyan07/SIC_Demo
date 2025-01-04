@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "712098689800",
+    "project_id": "sic-demo-ae62a",
+    "storage_bucket": "sic-demo-ae62a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712098689800:android:ce4165cade796e0bd172bd",
+        "android_client_info": {
+          "package_name": "com.example.sic_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtuCPO21AT49eRrb6DoOcQMxdHr-uCBXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
