@@ -4,7 +4,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/teal_200"
-    tools:context=".HomeFragment">
+    tools:context=".HomeFragment"
+    android:id="@+id/home">
 
     <!-- TODO: Update blank fragment layout -->
     <TextView
@@ -12,6 +13,8 @@
         android:layout_height="wrap_content"
         android:text="@string/home_fragment"
         android:textSize="26sp"
-        android:layout_gravity="center"/>
+        android:layout_gravity="center"
+        android:layout_centerInParent="true"
+        tools:ignore="ObsoleteLayoutParam" />
 
 </FrameLayout>
